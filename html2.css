@@ -1,0 +1,12 @@
+body{
+	background-image: url(image.jpg.jpg);
+	background-size:50%;
+}
+li{
+	color: red;
+}
+.btn{
+	color: blue;
+	cursor: pointer;
+	border: 5px solid red;
+}
